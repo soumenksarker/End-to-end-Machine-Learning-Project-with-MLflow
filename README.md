@@ -158,7 +158,7 @@ export MLFLOW_TRACKING_PASSWORD=322cf8ff1e578eafc90970f5378e3f8e7fb86809
 
     ECR_REPOSITORY_NAME = mlproj
 
-#Now push using git bash
+#Now push using git bash agin for cicd deployment
 
 
 ## About MLflow 
