@@ -71,6 +71,8 @@ python script.py
 Run this to export as env variables:
 
 ```bash
+#use set instead of export in vs terminal
+#we should use git bash to run this command
 
 export MLFLOW_TRACKING_URI=https://dagshub.com/soumenksarker/End-to-end-Machine-Learning-Project-with-MLflow.mlflow 
 
@@ -79,6 +81,7 @@ export MLFLOW_TRACKING_USERNAME=soumenksarker
 export MLFLOW_TRACKING_PASSWORD=322cf8ff1e578eafc90970f5378e3f8e7fb86809
 
 ```
+#run python main.py on git bash shell for show the experimented results on mlops
 
 
 
@@ -155,7 +158,7 @@ export MLFLOW_TRACKING_PASSWORD=322cf8ff1e578eafc90970f5378e3f8e7fb86809
 
     ECR_REPOSITORY_NAME = mlproj
 
-
+#Now push using git bash
 
 
 ## About MLflow 
