@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sks00/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/47e153043c554febb2d201c7621df9aa/artifacts
+end_time: 1693817029366
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47e153043c554febb2d201c7621df9aa
+run_name: worried-bass-352
+run_uuid: 47e153043c554febb2d201c7621df9aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693817023315
+status: 3
+tags: []
+user_id: sks00
