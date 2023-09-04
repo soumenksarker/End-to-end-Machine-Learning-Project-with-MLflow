@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sks00/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/c2b2ea00c3b141d1900d9413ed65a083/artifacts
+end_time: 1693815333518
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2b2ea00c3b141d1900d9413ed65a083
+run_name: honorable-foal-333
+run_uuid: c2b2ea00c3b141d1900d9413ed65a083
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693815326477
+status: 3
+tags: []
+user_id: sks00
